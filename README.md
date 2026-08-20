@@ -1,8 +1,9 @@
 # Bug Hunt — Car Maintenance Logic
 
 `car_maintenance.py` holds seven small functions for a workshop tool: service
-intervals, fuel economy, tire wear, and service history. You're reading the
-code, not running it.
+intervals, fuel economy, tire wear, and service history. The code is up for
+review in **[PR #1](../../pull/1)** — leave your review there. You're reading
+the code, not running it.
 
 ## The rule
 
@@ -16,7 +17,7 @@ Naming, formatting and type hints don't count — only behaviour.
 
 ## Your task
 
-Find the bugs. For each one, say:
+Review the PR and find the bugs. For each one, say:
 
 - which function, and what it gets wrong
 - an input that proves it
